@@ -10,4 +10,4 @@ go get github.com/codemicro/rational
 
 ## Docs
 
-[![Go Reference](https://pkg.go.dev/badge/codemicro/rational.svg)](https://pkg.go.dev/codemicro/rational)
+[![Go Reference](https://pkg.go.dev/badge/github.com/codemicro/rational.svg)](https://pkg.go.dev/github.com/codemicro/rational)
